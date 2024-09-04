@@ -1,0 +1,32 @@
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Firma\Firma\bin\Debug\Firma.exe.config
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Firma\Firma\bin\Debug\Firma.exe
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Firma\Firma\bin\Debug\Firma.pdb
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Firma\Firma\obj\Debug\Firma.csproj.AssemblyReference.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Firma\Firma\obj\Debug\Firma.csproj.SuggestedBindingRedirects.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Firma\Firma\obj\Debug\Firma.Form1.resources
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Firma\Firma\obj\Debug\Firma.Properties.Resources.resources
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Firma\Firma\obj\Debug\Firma.csproj.GenerateResource.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Firma\Firma\obj\Debug\Firma.csproj.CoreCompileInputs.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Firma\Firma\obj\Debug\Firma.exe
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Firma\Firma\obj\Debug\Firma.pdb
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Zamestnanci\Firma\bin\Debug\Firma.exe.config
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Zamestnanci\Firma\bin\Debug\Firma.exe
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Zamestnanci\Firma\bin\Debug\Firma.pdb
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Zamestnanci\Firma\obj\Debug\Firma.csproj.AssemblyReference.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Zamestnanci\Firma\obj\Debug\Firma.csproj.SuggestedBindingRedirects.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Zamestnanci\Firma\obj\Debug\Firma.Form1.resources
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Zamestnanci\Firma\obj\Debug\Firma.Properties.Resources.resources
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Zamestnanci\Firma\obj\Debug\Firma.csproj.GenerateResource.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Zamestnanci\Firma\obj\Debug\Firma.csproj.CoreCompileInputs.cache
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Zamestnanci\Firma\obj\Debug\Firma.exe
+C:\_VISUAL_STUDIO-2022\____PORTFOLIO\Zamestnanci\Firma\obj\Debug\Firma.pdb
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\3-DB_MDF-Zamestnanci-main\Firma\bin\Debug\Firma.exe.config
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\3-DB_MDF-Zamestnanci-main\Firma\bin\Debug\Firma.exe
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\3-DB_MDF-Zamestnanci-main\Firma\bin\Debug\Firma.pdb
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\3-DB_MDF-Zamestnanci-main\Firma\obj\Debug\Firma.csproj.AssemblyReference.cache
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\3-DB_MDF-Zamestnanci-main\Firma\obj\Debug\Firma.Form1.resources
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\3-DB_MDF-Zamestnanci-main\Firma\obj\Debug\Firma.Properties.Resources.resources
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\3-DB_MDF-Zamestnanci-main\Firma\obj\Debug\Firma.csproj.GenerateResource.cache
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\3-DB_MDF-Zamestnanci-main\Firma\obj\Debug\Firma.csproj.CoreCompileInputs.cache
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\3-DB_MDF-Zamestnanci-main\Firma\obj\Debug\Firma.exe
+C:\_GITHUB\2023-09 KOMENTY DOPLNENI\3-DB_MDF-Zamestnanci-main\Firma\obj\Debug\Firma.pdb
